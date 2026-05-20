@@ -1,2 +1,1 @@
-# CodeAlpha_calculator
-# Basic Calculator  A simple and responsive calculator built using HTML, CSS, and JavaScript.  ## Features - Addition, subtraction, multiplication, division - Keyboard support - Responsive UI - Clear screen functionality - Error handling  ## Technologies Used - HTML - CSS - JavaScript
+Developed a responsive and user-friendly calculator application using HTML, CSS, and JavaScript. The project was designed to perform basic arithmetic operations including addition, subtraction, multiplication, and division with accurate real-time calculations. A clean and modern user interface was created to provide a smooth user experience across different screen sizes.
